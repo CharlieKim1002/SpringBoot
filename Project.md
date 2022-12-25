@@ -1,4 +1,23 @@
-# wantOfficeMain
+# Rest API 를 활용한 Spring Boot환경 풀스텍(백엔드) 팀 작업
+# 사용 기술
+   1) JAVA
+   2) Spring Boot
+   3) Rest API
+   4) Oracle SQL (DBMS)
+   5) Github
+   6) Notion / Slack
+
+# 담당 업무(팀장)
+  1) 팀원 및 이슈관리
+  2) 회의실 예약 시스템 구현 담당
+  3) 회의실 시스템 구현 담당
+  4) 회의를 통한 프로젝트 일정 관리
+  5) 공석 팀원 케어 및 팀장 역할
+  
+# 팀 프로젝트 Github Link
+  1) https://github.com/SIROMANG/wantOfficeMain.git
+
+-------------------------------------------------------------------------------------------
 
 # 1. git 사용 Rule
 
