@@ -1,4 +1,6 @@
 # Rest API 를 활용한 Spring Boot환경 풀스텍(백엔드) 팀 작업
+# 구성 인원
+   - 6명
 # 사용 기술
    1) JAVA
    2) Spring Boot
